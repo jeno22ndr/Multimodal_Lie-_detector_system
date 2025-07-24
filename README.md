@@ -1,9 +1,9 @@
 # 👁️ Multimodal Lie Detector System
 
-![Application Screenshot](img1.jpg)
-![Application Screenshot](img2.pnj)
-![Application Screenshot](img3.jpg)
-
+!(img1.jpg)
+!(img2.pnj)
+!(img3.jpg)
+!(Demostrate.mp4)
 > A real-time system that analyzes physiological and behavioral cues from video to estimate the likelihood of deception.
 
 ---
