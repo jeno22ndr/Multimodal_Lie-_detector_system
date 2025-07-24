@@ -3,7 +3,7 @@
 !(img1.jpg)
 !(img2.pnj)
 !(img3.jpg)
-!(Demostrate.mp4)
+!(Demonstration.mp4)
 > A real-time system that analyzes physiological and behavioral cues from video to estimate the likelihood of deception.
 
 ---
