@@ -1,0 +1,31 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE and editor configuration
+.vscode/
+.idea/
+
+# Large data files
+# It's good practice to keep the directory structure but ignore the content
+data/raw_videos/*
+data/raw_audio/*
+!data/raw_videos/.gitkeep
+!data/raw_audio/.gitkeep
+
+# Trained models (can be very large)
+models/*.h5
+models/*.pth
+!models/.gitkeep
+
+# OS-specific files
+.DS_Store
+Thumbs.db
