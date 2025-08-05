@@ -108,6 +108,6 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 
 ## 📧 Contact
 
-Jeno - [your.email@example.com](mailto:jeno22ndr@gmail.com)
+Jeno - (mailto:jeno22ndr@gmail.com)
 
 Project Link: (https://github.com/jeno22ndr/Multimodal_Lie-_detector_system)
