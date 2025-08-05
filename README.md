@@ -1,7 +1,19 @@
+<p align="center">
+  <a href="./README.md"><strong>Multimodal Lie Detector System »</strong></a>
+  <br><br>
+  <img alt="Language" src="https://img.shields.io/github/languages/top/jeno22ndr/Multimodal_Lie-_detector_system?style=for-the-badge">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jeno22ndr/Multimodal_Lie-_detector_system?style=for-the-badge&color=blue">
+  <img alt="Repo Stars" src="https://img.shields.io/github/stars/jeno22ndr/Multimodal_Lie-_detector_system?style=for-the-badge&color=yellow">
+  <a href="https://github.com/jeno22ndr/Multimodal_Lie-_detector_system/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/jeno22ndr/Multimodal_Lie-_detector_system?style=for-the-badge">
+  </a>
+</p>
+
 # 👁️ Multimodal Lie Detector System
 
-![Application Screenshot](img4.png)
-![Demonstration Video Thumbnail](img3.jpg)(Demonstration.mp4)
+![Application Screenshot](img4.png)  
+![Demonstration Video Thumbnail](img3.jpg)
+
 > A real-time system that analyzes physiological and behavioral cues from video to estimate the likelihood of deception.
 
 ---
@@ -52,7 +64,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/jeno22ndr/Multimodal-Lie-detector-system.git](https://github.com/jeno22ndr/Multimodal-Lie-detector-system.git)
+    git clone https://github.com/jeno22ndr/Multimodal-Lie-detector-system.git
     cd Multimodal-Lie-detector-system
     ```
 
@@ -70,6 +82,7 @@ To get a local copy up and running, follow these simple steps.
     ```bash
     pip install -r requirements.txt
     ```
+
 4.  **Download Assets:**
     - Ensure you have a `meter.png` file for the deception meter in the root directory.
     - Place a screenshot of the app named `app_screenshot.jpg` inside an `assets` folder.
@@ -102,12 +115,11 @@ This tool is developed for educational and experimental purposes only. The detec
 
 ## 📄 License
 
-This project is distributed under the MIT License. See the `LICENSE` file for more information.
+This project is distributed under the Apache License. See the `LICENSE` file for more information.
 
 ---
 
 ## 📧 Contact
 
-Jeno - (mailto:jeno22ndr@gmail.com)
-
-Project Link: (https://github.com/jeno22ndr/Multimodal_Lie-_detector_system)
+Jeno - [jeno22ndr@gmail.com](mailto:jeno22ndr@gmail.com)  
+Project Link: [https://github.com/jeno22ndr/Multimodal_Lie-_detector_system](https://github.com/jeno22ndr/Multimodal_Lie-_detector_system)
